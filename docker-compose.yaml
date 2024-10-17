@@ -1,0 +1,16 @@
+services:
+  rabbitmq-lock:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    deploy:
+      replicas: 5
+  rabbitmq:
+    image: rabbitmq:3.13-management
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+      - 5673:5672
+      - 15673:15672
+    attach: false
