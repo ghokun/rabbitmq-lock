@@ -3,7 +3,7 @@ module github.com/ghokun/rabbitmq-lock
 go 1.23.2
 
 require (
-	github.com/go-co-op/gocron/v2 v2.13.0
+	github.com/go-co-op/gocron/v2 v2.14.1
 	github.com/rabbitmq/amqp091-go v1.10.0
 )
 
