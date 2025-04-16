@@ -6,7 +6,7 @@ services:
     deploy:
       replicas: 5
   rabbitmq:
-    image: rabbitmq:4.0-management
+    image: rabbitmq:4.1-management
     environment:
       - RABBITMQ_DEFAULT_USER=guest
       - RABBITMQ_DEFAULT_PASS=guest
