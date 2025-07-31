@@ -16,6 +16,8 @@ github.com/go-co-op/gocron/v2 v2.16.0 h1:uqUF6WFZ4enRU45pWFNcn1xpDLc+jBOTKhPQI16
 github.com/go-co-op/gocron/v2 v2.16.0/go.mod h1:opexeOFy5BplhsKdA7bzY9zeYih8I8/WNJ4arTIFPVc=
 github.com/go-co-op/gocron/v2 v2.16.1 h1:ux/5zxVRveCaCuTtNI3DiOk581KC1KpJbpJFYUEVYwo=
 github.com/go-co-op/gocron/v2 v2.16.1/go.mod h1:opexeOFy5BplhsKdA7bzY9zeYih8I8/WNJ4arTIFPVc=
+github.com/go-co-op/gocron/v2 v2.16.3 h1:kYqukZqBa8RC2+AFAHnunmKcs9GRTjwBo8WRF3I6cbI=
+github.com/go-co-op/gocron/v2 v2.16.3/go.mod h1:aTf7/+5Jo2E+cyAqq625UQ6DzpkV96b22VHIUAt6l3c=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/jonboulle/clockwork v0.4.0 h1:p4Cf1aMWXnXAUh8lVfewRBx1zaTSYKrKMF2g3ST4RZ4=
